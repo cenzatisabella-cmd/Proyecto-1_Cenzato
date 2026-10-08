@@ -5,25 +5,25 @@
 <nav>
    <ul>
      <li><a href="index.html">inicio</a></li>
-     <li><a href="postres.html">pasteleria 1</a></li>
-     <li><a href="Venta de pasteles.html">Tienda 2</a></li>
+     <li><a href="postres.html">pasteleria</a></li>
+     <li><a href="Venta de pasteles.html">Tienda</a></li>
    </ul>
 </nav>
 <main>
   <section>
-    <h2>Recetas</h2>
+    <h2>Descripción</h2>
     <article>
-       <p>Hacer postres.</p>
+       <p>En esta pagina vamos a hacer recetas virales que circulan por el internet.</p>
   </article>
   <article>
-       <p>Recrear postres virales.</p>
+       <p>Recrear recetas virales.</p>
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLw9ST7MGf-f-2maB2XZEhiFnjLTarHPKRmcIm-YQgg&s=10.jpg" alt="Pasteles virales de hoy en dia">
   </article>
 
 </section>
   <section>
     <h2>Venta de pasteles</h2>
-    <p>Vender pasteles</p>
+    <p>Nos dedicamos a vender pasteles muy buenos</p>
   </section>
 </main>
   <a href="Pasteleria.html">Bienvenidos</a>
