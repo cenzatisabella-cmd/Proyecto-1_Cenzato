@@ -1,6 +1,6 @@
 # Proyecto-1_Cenzato
 <header>
-   <h1>Postres</h1>
+   <h1>Recetas</h1>
 </header>
 <nav>
    <ul>
@@ -13,11 +13,11 @@
   <section>
     <h2>Descripción</h2>
     <article>
-       <p>En esta pagina vamos a hacer recetas virales que circulan por el internet.</p>
+       <p>La preparación de un pastel consiste en mezclar ingredientes clave como harina, huevos, azúcar y grasas, para luego hornear, rellenar y decorar la estructura.</p>
   </article>
   <article>
-       <p>Recrear recetas virales.</p>
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLw9ST7MGf-f-2maB2XZEhiFnjLTarHPKRmcIm-YQgg&s=10.jpg" alt="Pasteles virales de hoy en dia">
+       </p>
+       <img src="https://www.quijotelunch.com.ar/productos/mini-cakes/">
   </article>
 
 </section>
