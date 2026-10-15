@@ -6,7 +6,7 @@
    <ul>
      <li><a href="index.html">inicio</a></li>
      <li><a href="postres.html">pasteleria</a></li>
-     <li><a href="Venta de pasteles.html">Tienda</a></li>
+     <li><a href="Recetas de pasteles.html">Tienda</a></li>
    </ul>
 </nav>
 <main>
@@ -22,8 +22,8 @@
 
 </section>
   <section>
-    <h2>Venta de pasteles</h2>
-    <p>Nos dedicamos a vender pasteles muy buenos</p>
+    <h2>Receta de cheescake</h2>
+    <p>Galletitas dulces: 200 g </p>
   </section>
 </main>
   <a href="Pasteleria.html">Bienvenidos</a>
